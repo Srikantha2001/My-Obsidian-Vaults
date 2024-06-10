@@ -8,18 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a63b97eb1d005475",
+            "id": "4c4aa4505bfbec4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scribble.md",
+                "file": "Tech Notes/Gradle.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scribble.md",
+                "file": "Tech Notes/Gradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scribble.md",
+                "file": "Tech Notes/Gradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +126,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scribble.md"
+                "file": "Tech Notes/Gradle.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,15 +148,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a63b97eb1d005475",
+  "active": "4c4aa4505bfbec4e",
   "lastOpenFiles": [
+    "Books/Bruce Eckel - Thinking in Java 4th Edition.pdf",
+    "Books/Effective Java (2017, Addison-Wesley).pdf",
+    "Tech Notes/DSA/Recursion and Backtracking.md",
+    "Tech Notes/Gradle.md",
+    "Projects/Spring-Boot-Microservices Sivalabs.md",
+    "Books/Cracking the Coding Interview.pdf",
+    "Notes Resources/Pasted image 20240608233734.png",
+    "Projects/Spring-Boot-Microservices-Ali.md",
     "Projects/Projects To Be done.md",
+    "Notes Resources/Pasted image 20240609001902.png",
+    "Notes Resources/Pasted image 20240609000632.png",
+    "Notes Resources",
+    "Notes Resources/Pasted image 20240609001844.png",
+    "Notes Resources/Pasted image 20240609001631.png",
+    "Notes Resources/Pasted image 20240609001610.png",
+    "Untitled.canvas",
+    "Books/Notes/Database Internals.md",
     "Scribble.md",
+    "Things to Focus.md",
+    "Books/Notes",
+    "Books",
+    "Things to Learn.md",
+    "Kotlin/Basics.md",
+    "Kotlin",
+    "Projects/Spring-boot-Microservices Sivalabs/Untitled.md",
+    "Projects/Spring-boot-Microservices Sivalabs",
+    "Tech Notes/DSA/Recursion",
+    "Tech Notes/DSA",
     "Projects/Microservices/Flow.md",
-    "Projects",
-    "Tech Notes",
-    "Welcome.md",
-    "Projects/Microservices",
-    "Projects"
+    "Welcome.md"
   ]
 }

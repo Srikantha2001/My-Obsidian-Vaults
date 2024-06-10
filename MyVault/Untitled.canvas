@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"4b4ae9324501f9da","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Task 1"},
+		{"id":"b6fb4fd6a341b7a5","x":-125,"y":-30,"width":250,"height":60,"color":"3","type":"text","text":"task 1"},
+		{"id":"a36521693c74ea6e","x":-250,"y":105,"width":150,"height":60,"color":"5","type":"text","text":"task 2"},
+		{"id":"be13bf8ad2ba87bf","x":183,"y":260,"width":175,"height":62,"color":"1","type":"text","text":"task 4"},
+		{"id":"04ae3aa32569cf54","x":0,"y":105,"width":175,"height":60,"color":"6","type":"text","text":"Task 3"},
+		{"id":"a107ef9c1bc41a1c","x":271,"y":105,"width":160,"height":60,"color":"4","type":"text","text":"task 5"}
+	],
+	"edges":[
+		{"id":"13c20317994fdc3f","fromNode":"b6fb4fd6a341b7a5","fromSide":"bottom","toNode":"a36521693c74ea6e","toSide":"top"},
+		{"id":"66e5509333387fc8","fromNode":"b6fb4fd6a341b7a5","fromSide":"bottom","toNode":"04ae3aa32569cf54","toSide":"top"},
+		{"id":"95725b64af59e9bd","fromNode":"04ae3aa32569cf54","fromSide":"bottom","toNode":"be13bf8ad2ba87bf","toSide":"top"},
+		{"id":"ac131c28d9a3eda3","fromNode":"a107ef9c1bc41a1c","fromSide":"bottom","toNode":"be13bf8ad2ba87bf","toSide":"top"}
+	]
+}

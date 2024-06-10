@@ -1,7 +1,7 @@
 {
-  "accentColor": "#374ca0",
+  "accentColor": "#11336a",
   "interfaceFontFamily": "Arial",
-  "textFontFamily": "Arial Nova",
+  "textFontFamily": "Cascadia Code",
   "cssTheme": "Border",
   "theme": "moonstone"
 }
